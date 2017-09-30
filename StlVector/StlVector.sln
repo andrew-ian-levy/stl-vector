@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StlVector", "StlVector\StlVector.vcxproj", "{7542EED6-731C-4916-94B9-CA9D21E64772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7542EED6-731C-4916-94B9-CA9D21E64772}.Debug|x64.ActiveCfg = Debug|x64
+		{7542EED6-731C-4916-94B9-CA9D21E64772}.Debug|x64.Build.0 = Debug|x64
+		{7542EED6-731C-4916-94B9-CA9D21E64772}.Debug|x86.ActiveCfg = Debug|Win32
+		{7542EED6-731C-4916-94B9-CA9D21E64772}.Debug|x86.Build.0 = Debug|Win32
+		{7542EED6-731C-4916-94B9-CA9D21E64772}.Release|x64.ActiveCfg = Release|x64
+		{7542EED6-731C-4916-94B9-CA9D21E64772}.Release|x64.Build.0 = Release|x64
+		{7542EED6-731C-4916-94B9-CA9D21E64772}.Release|x86.ActiveCfg = Release|Win32
+		{7542EED6-731C-4916-94B9-CA9D21E64772}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {003CEF4C-69C3-4691-80D2-7DDB459E5A03}
+	EndGlobalSection
+EndGlobal
