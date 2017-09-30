@@ -7,7 +7,7 @@ using namespace std;
 int main() {
 
 	// declare vector
-	vector<int> foo(20);
+	vector<int> foo(25);
 
 	// populate
 	iota(foo.begin(), foo.end(), 1);
