@@ -22,8 +22,9 @@ int main() {
 
 	cout << endl;
 
-	cin.get();
+	foo.clear();
 
+	cin.get();
 	return 0;
 
 }
